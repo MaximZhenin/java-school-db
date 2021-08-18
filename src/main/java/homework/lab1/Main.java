@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package homework.lab1;
 
 public class Main {
 

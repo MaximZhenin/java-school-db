@@ -1,3 +1,4 @@
+package homework.lab1;
 
 public interface SuperIntegerList {
 
